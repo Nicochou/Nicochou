@@ -15,4 +15,4 @@ Dev -> PHP, NodeJS, ReactJS, JQuery, Oracle, MySQL, Bootstrap, HTML/CSS.
 
 DevOps -> Docker, Jenkins, AWS, Ansible, Github, BitBucket.
 
-Environnement -> VScode, SQL developer, Git, SVN.
+Environnement -> VScode, SQL developer, Git, SVN, WAMP, Laragon.
