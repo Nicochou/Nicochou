@@ -6,4 +6,11 @@
 
 ## Connect with me
 
+[Linkedin](https://www.linkedin.com/in/nicolas-boulein-131a75162/)
+[Twitter](https://twitter.com/NicolasBoulein)
+
 ## Languages and Tools
+
+Dev -> PHP, NodeJS, ReactJS, JQuery, Oracle, MySQL, Bootstrap, HTML/CSS.
+DevOps -> Docker, Jenkins, AWS, Ansible, Github, BitBucket.
+Environnement -> VScode, SQL developer, Git, SVN.
