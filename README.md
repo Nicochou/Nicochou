@@ -25,4 +25,4 @@
 
 👨‍🚀 Docker, AWS, Ansible, Github, BitBucket, Gitlab.
 
-👨‍🍳 VScode, SQL developer, PhpMyAdmin, Git, Git Bash, Laragon, Teams, notePad++
+👨‍🍳 VScode, SQL developer, PhpMyAdmin, Git, Git Bash, Laragon, Teams, NotePad++
