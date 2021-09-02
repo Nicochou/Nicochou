@@ -6,7 +6,7 @@
 
 ## Connect with me
 
-[!myTwitter][1.1]][1]
+[![myTwitter][1.1]][1]
 [![MyGoogle][3.1]][3]
 [![MyGithub][6.1]][6]
 
